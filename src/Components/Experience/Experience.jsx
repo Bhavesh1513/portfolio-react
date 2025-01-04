@@ -14,7 +14,7 @@ const Experience = () => {
           <div className="flex gap-10 bg-slate-950 bg-opacity-45 mt-4 rounded-lg p-4 items-center">
             <SiAirtel color="red" size={100} />
             <span className="text-white">
-              <h2 className="leading-tight font-bold text-xl">Software Engineer Intern, Airtel</h2>
+              <h2 className="leading-tight font-bold text-xl">Software Engineer Intern, Airtel Digital</h2>
               <p className="text-sm leading-tight font-thin">
                 Feb 2024 - Jul 2024
               </p>
